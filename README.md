@@ -2,21 +2,27 @@
 
 ## Installing
 
-*TODO*: Replace the `<github-organization>` with your GitHub organization.
-
 ```bash
-quarto use template <github-organization>/international-conference-on-information-systems
+quarto use template fs-ise/quarto-template-international-conference-on-information-systems
 ```
 
 This will install the extension and create an example qmd file that you can use as a starting place for your article.
 
 ## Using
 
-*TODO*: Describe how to use your extension.
+Add the yaml metadata:
+
+```yaml
+format:
+  international-conference-on-information-systems-docx: default
+```
+
+<!-- 
 
 ## Format Options
 
 *TODO*: If your format has options that can be set via document metadata, describe them.
+-->
 
 ## Example
 
