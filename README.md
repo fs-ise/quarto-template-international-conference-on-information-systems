@@ -17,6 +17,12 @@ format:
   international-conference-on-information-systems-docx: default
 ```
 
+Render using the extension:
+
+```sh
+quarto render paper.md --to international-conference-on-information-systems-docx
+```
+
 <!-- 
 
 ## Format Options
