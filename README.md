@@ -23,6 +23,13 @@ Render using the extension:
 quarto render paper.md --to international-conference-on-information-systems-docx
 ```
 
+Manual tasks
+
+- Add subheading (completed research, ...)
+- Update footer (conference venue)
+- Update header (short title)
+- Check/update figures and tables
+
 <!-- 
 
 ## Format Options
