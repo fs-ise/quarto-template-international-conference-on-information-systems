@@ -26,9 +26,9 @@ quarto render paper.md --to international-conference-on-information-systems-docx
 Manual tasks
 
 - Add subheading (completed research, ...)
-- Update footer (conference venue)
+- Update footer (conference venue; check font size)
 - Update header (short title)
-- Check/update figures and tables
+- Check/update figures and tables (nested structures, alignment of content, table captions must be **below** the table)
 
 <!-- 
 
