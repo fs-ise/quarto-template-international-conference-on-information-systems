@@ -6,6 +6,6 @@ contributes:
   formats:
     docx:
       # See https://quarto.org/docs/output-formats/ms-word-templates.html
-      csl: misq.csl
+      csl: apa.csl
       reference-doc: international-conference-on-information-systems.docx
 
